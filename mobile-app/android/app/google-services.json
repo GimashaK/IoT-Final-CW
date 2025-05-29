@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1024942139800",
+    "firebase_url": "https://iot-cw-f803e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-cw-f803e",
+    "storage_bucket": "iot-cw-f803e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024942139800:android:f3674740a8283af91323ed",
+        "android_client_info": {
+          "package_name": "com.anonymous.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVorCL6a2qACMB04BxEDQTmgoYUY2LRpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
